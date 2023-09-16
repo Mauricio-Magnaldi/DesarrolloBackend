@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Amoladora",
+        "price": 24000,
+        "code": "a"
+    },
+    {
+        "id": 2,
+        "name": "Taladro",
+        "price": 40000,
+        "code": "b"
+    },
+    {
+        "id": 3,
+        "name": "Destornillador plano",
+        "price": 1400,
+        "code": "c"
+    },
+    {
+        "id": 4,
+        "name": "Sierra",
+        "price": 3200,
+        "code": "d"
+    },
+    {
+        "id": 5,
+        "name": "Escalera de tres peldaños",
+        "price": 10000,
+        "code": "e"
+    },
+    {
+        "id": 6,
+        "name": "Pala",
+        "price": 8732,
+        "code": "f"
+    },
+    {
+        "id": 7,
+        "name": "Martillo",
+        "price": 1200,
+        "code": "g"
+    },
+    {
+        "id": 8,
+        "name": "Pinza de punta",
+        "price": 4000,
+        "code": "h"
+    },
+    {
+        "id": 9,
+        "name": "Balde",
+        "price": 2000,
+        "code": "i"
+    },
+    {
+        "id": 10,
+        "name": "Soldadora",
+        "price": 120000,
+        "code": "j"
+    }
+]
